@@ -1,7 +1,15 @@
 #Day_2.js
 
 ##01-dom-manipulation
-![Screenshot 2025-06-14 125602](https://github.com/user-attachments/assets/ee2c6e68-afe1-42a6-b6d6-ef315a4f1580)
+EASY
+![Screenshot 2025-06-14 220805](https://github.com/user-attachments/assets/0fa24c0c-a307-4a7d-ae33-8c4240f8fc6b)
+
+MEDIUM
+![Screenshot 2025-06-14 221055](https://github.com/user-attachments/assets/0f92a9ae-f76e-45d2-893b-a6b8cb33710e)
+
+HARD
+![Screenshot 2025-06-14 221308](https://github.com/user-attachments/assets/abb13865-88b2-4be7-ab6e-c6d56c4ac3d6)
+
 
 
 ##02-array-methods
