@@ -12,4 +12,4 @@
 
 ##3-dom-and-arrays-together
 ![Screenshot 2025-06-14 125829](https://github.com/user-attachments/assets/6c480c2e-d3fb-4433-a7e3-b7325c481257)
-![Screenshot 2025-06-14 130518](https://github.com/user-attachments/assets/a527559e-619b-4dd1-8478-33bbd147b42a)
+![Screenshot 2025-06-14 130826](https://github.com/user-attachments/assets/20556e88-c174-498f-85e2-a0bfdfcad1f6)
