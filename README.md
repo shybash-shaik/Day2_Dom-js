@@ -19,5 +19,11 @@ HARD
 
 
 ##3-dom-and-arrays-together
+EASY
+![Screenshot 2025-06-14 223958](https://github.com/user-attachments/assets/3e946046-589a-4511-8693-a0df717ebc9a)
+
+MEDIUM
 ![Screenshot 2025-06-14 125829](https://github.com/user-attachments/assets/6c480c2e-d3fb-4433-a7e3-b7325c481257)
+
+HARD
 ![Screenshot 2025-06-14 130826](https://github.com/user-attachments/assets/20556e88-c174-498f-85e2-a0bfdfcad1f6)
